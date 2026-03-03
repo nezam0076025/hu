@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-printf("hi");
+printf("ho");
 return 0;}
